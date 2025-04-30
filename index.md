@@ -10,3 +10,8 @@ Hicimos un header
 ``` javascript
 var idea = "Buenas"
 ```
+
+## Ejemplo Lista
+- [ ] Ejempo a
+- [ ] Ejemplo b
+- [ ] Ejemplo c
